@@ -13,7 +13,7 @@
 
 - iframe을 이용하여 ajax가 아니지만 화면 전환 효과를 막으면서 파일 업로드를 시킬 수 있었음.
 
-<h2> iframe을 이용한 file upload </h2> <h3>Drag & Drop 방식으로 연습(단일 파일 업로드 기준)</h3>
+<h2> iframe을 이용한 file upload </h2> <h4>Drag & Drop 방식으로 연습(단일 파일 업로드 기준)</h4>
 
 - 미리 div를 설정하여 Drag할 공간을 만들어 놓는다.
 
