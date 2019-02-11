@@ -1,7 +1,7 @@
 # FileUploadEX
 파일 업로드 / 삭제 TEST
 
-1. 라이브러리 추가 (imgscalr-lib  /commons-fileupload)
+#1. 라이브러리 추가 (imgscalr-lib  /commons-fileupload)
 
 2. 웹과 관련된 객체를 설정하기 위해서 servlet-context.xml에 multipartResolver 설정
 
